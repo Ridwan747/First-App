@@ -59,7 +59,7 @@ const Linlogin = () => {
         style={styles.apple}
         onPress={() => console.log("pressed")}
       >
-        <View style={styles.logo}>
+       <View style={styles.logo}>
         <AppleLogo
         name="apple1"
         size={15}
